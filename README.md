@@ -3,3 +3,6 @@ Este repositorio contiene el flow 1 el cual se actualizar[a con el plugin de git
 Este es el primer commit con source control para el grupo 7
 
 Voy hacer otro commit como prueba para saber si esto funciona
+
+Este es el primer commit con el plugin de github 
+Version 2
